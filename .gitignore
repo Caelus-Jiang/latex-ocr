@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Pix2Text models (downloaded at runtime)
+.pix2text/
+
+# Testing / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
