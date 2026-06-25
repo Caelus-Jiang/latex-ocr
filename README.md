@@ -21,7 +21,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/<your-username>/latex-ocr.git
+git clone https://github.com/Caelus-Jiang/latex-ocr.git
 cd latex-ocr
 
 # 基础安装（文件识别）
